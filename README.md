@@ -27,7 +27,7 @@ Line charts to track changes in sales over time
 Scatter plots to identify any relationships between product attributes and sales performance
 
 #### Best-Selling Products： 
-
+<img src="https://github.com/liaolisha/Beverage-HK/blob/main/%E5%9B%BE%E7%89%871.png" data-canonical-src="https://github.com/liaolisha/Beverage-HK/blob/main/%E5%9B%BE%E7%89%871.png" width="600" height="500" />
 
 ### Usage
 To run the project, you will need to have the following dependencies installed:
